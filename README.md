@@ -1,4 +1,4 @@
-Dưới đây là bài làm ngắn gọn, dễ hiểu, phù hợp với sinh viên năm nhất và có thể sao chép trực tiếp vào StackEdit.
+
 
 # SESSION 20 – EXERCISE 04
 
